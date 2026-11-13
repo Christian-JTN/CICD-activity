@@ -1,2 +1,2 @@
-# CICD-activity
+# CCI/CD Activity
 yawa
